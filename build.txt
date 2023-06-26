@@ -1,3 +1,5 @@
 displayName = Poorly Translated tModLoader
 author = Ved_s
 version = 0.1
+homepage = https://github.com/Ved-s/PoorlyTranslated.tModLoader
+buildIgnore = *.xcf, *.csproj.user, Properties/*
