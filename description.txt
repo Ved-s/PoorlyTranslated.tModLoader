@@ -1,0 +1,3 @@
+Poorly-translate tModLoader!
+This mod translates all terraria localization lines through Google Translate multiple times.
+By default translates to currently selected game languages with 4 random languages inbetween.

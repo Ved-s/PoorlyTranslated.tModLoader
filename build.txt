@@ -1,0 +1,3 @@
+displayName = Poorly Translated tModLoader
+author = Ved_s
+version = 0.1
